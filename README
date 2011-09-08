@@ -1,0 +1,29 @@
+what
+~~~~
+
+   Long times ago, as i suddenly understood the MS Windows messaging system, 
+   i build a little tool to play around with the windows from running applications. 
+   You can play around with the window settings, change text, etc...
+   Find more infos and a video demo at
+   http://codenaschen.de/tichyblog/index.php?action=blog&entry=4_Window%20Buster
+
+
+author
+~~~~~~
+
+   Andreas Schuler <andreas at schulerdev.de>
+   http://codenaschen.de
+
+
+license
+~~~~~~~
+
+   GNU GENERAL PUBLIC LICENSE Version 2
+   see LICENSE
+
+
+warning
+~~~~~~~
+
+   It's pre Alpha ! I only did play around with the possibilities. It was never planned 
+   as productive software. Press the wrong button to the wrong time and it will crash.
